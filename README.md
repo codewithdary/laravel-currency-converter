@@ -37,5 +37,5 @@ Finally, run your project in the browser! <br>
 ```php artisan serve```
 
 ## Credits due where credits due...
-Thanks to [amrshawky](https://github.com/amrshawky/laravel-currency) for creating the awesome Laravel currency converter package that we have used in this course!!
+Thanks to [amrshawky](https://github.com/amrshawky) for creating the awesome [Laravel currency converter](https://github.com/amrshawky/laravel-currency) package that we have used in this course!!
 
