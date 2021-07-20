@@ -33,7 +33,7 @@ Set the APP_KEY value <br>
 Clear your cache & config (OPTIONAL) <br>
 ```php artisan cache:clear && php artisan config:clear```
 
-Finally, run your project in the browser!
+Finally, run your project in the browser! <br>
 ```php artisan serve```
 
 ## Credits due where credits due...
