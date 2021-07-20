@@ -10,10 +10,14 @@ I have created a Laravel 8 Currency Converter in co-operation with Cloudways. <b
 ## Usage
 
 Clone the project <br>
-```git clone git@github.com:codewithdary/laravel-currency-converter.git```
+```
+git clone git@github.com:codewithdary/laravel-currency-converter.git
+```
 
 Change directories into your project <br>
-```cd laravel-currency-converter/```
+```
+cd laravel-currency-converter/
+```
 
 Install composer or update composer <br>
 ```
@@ -21,8 +25,6 @@ composer install
 composer update
 ```
 
-If you have composer installed, then update it (Optional) <br>
-```composer update```
 
 Create the .env file by duplicating the .env.example file<br>
 ```cp .env.example .env```
