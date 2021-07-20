@@ -1,5 +1,5 @@
 ## Laravel 8 Currency Converter
-
+<br>
 I have created a Laravel 8 Currency Converter in co-operation with Cloudways. <br>
 •	Author: Code With Dary <br>
 •	Twitter: @codewithdary <br>
