@@ -19,12 +19,10 @@ Change directories into your project <br>
 cd laravel-currency-converter/
 ```
 
-Install composer or update composer <br>
+Install composer <br>
 ```
 composer install
-composer update
 ```
-
 
 Create the .env file by duplicating the .env.example file<br>
 ```
