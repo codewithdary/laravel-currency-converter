@@ -27,16 +27,24 @@ composer update
 
 
 Create the .env file by duplicating the .env.example file<br>
-```cp .env.example .env```
+```
+cp .env.example .env
+```
  
 Set the APP_KEY value <br>
-```php artisan key:generate```
+```
+php artisan key:generate
+```
 
 Clear your cache & config (OPTIONAL) <br>
-```php artisan cache:clear && php artisan config:clear```
+```
+php artisan cache:clear && php artisan config:clear
+```
 
 Finally, run your project in the browser! <br>
-```php artisan serve```
+```
+php artisan serve
+```
 
 ## Credits due where credits due...
 Thanks to [amrshawky](https://github.com/amrshawky) for creating the awesome [Laravel currency converter](https://github.com/amrshawky/laravel-currency) package that we have used in this course!!
